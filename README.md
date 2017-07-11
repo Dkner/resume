@@ -1,11 +1,12 @@
 # **简介**
-
 | | |
 | :----: | :----: |
 | 姓名：胡立亮 | 手机：15821955721 |
 | 生日：1993.1.4 | 邮箱：15821955721@163.com |
 | 求职：python后端 | 期望工作地：上海 |
 | 主语言：python | 相貌较好，脾气更好 |
+
+![GitHub](https://github.com/Dkner/resume/blob/master/head.jpg)
 
 # **项目经历**
 ### [Mr2p](https://github.com/Dkner/mr2p/tree/master)
