@@ -26,7 +26,7 @@
 * pycharm，virtual env以及一些常用库
 * 大学时期写过几个简单的jave项目，详见[github](https://github.com/Dkner?tab=repositories)
 * 使用php yii框架实现公司产品运营后台（包括简单的前端）
-* nginx + flask实现restful api，做了配置接口、调用libvert进行虚拟化操作等
+* nginx + flask实现restful api，作配置接口、调用libvert进行虚拟化操作等
 * nginx + selenium remote webdriver搭建远程浏览器驱动，解放本地爬虫机使用phantomjs的负载
 * nginx + lua抒写CRUD业务接口，nginx负载均衡、代理长连接等
 * 利用redis做接口缓存，分布式程序的队列，监控统计等
