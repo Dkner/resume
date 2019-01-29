@@ -9,6 +9,18 @@
 ![GitHub](https://github.com/Dkner/resume/blob/master/head.jpg)
 
 # **项目经历**
+### 公司内部项目
+- 公众号、公司工商信息爬虫
+> 利用代理，绕过验证，扒取搜狗、微信公众号和公司工商、找中标信息并更新维护
+- 新闻信息流推荐推送
+> 信息打标，协同过滤订阅用户与扒取信息标签，进行精准推荐推送
+- 物流配送员账号系统
+> 外卖配送员信息管理，登录注册，排班等通勤功能
+- 配送运单履单系统
+> 物流运单配送过程跟踪
+- 隐私号系统
+> 外卖配送员与用户间的隐私号交互，注有公司专利《一种大规模及时配送订单的隐私小号保护机制》
+
 ### [Mr2p](https://github.com/Dkner/mr2p/tree/master)
 分布式可配置的，基于asyncio协程和redis的数据清洗推送框架
 
@@ -17,8 +29,6 @@
 
 ### [weixin_robot](https://github.com/Dkner/weixin_robot)
 基于itchat实现的微信个人号，调用celery触发定时任务
-
-### 公司内部项目
 
 # **工具与技能**
 * vim，markdown
